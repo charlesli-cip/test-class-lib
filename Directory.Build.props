@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project>
+    <PropertyGroup>
+        <Authors>CIPPlanner</Authors>
+        <PackageProjectUrl>https://github.com/charlesli-cip/test-class-lib</PackageProjectUrl>
+        <PackageVersion>1.0.0</PackageVersion>
+        <RepositoryUrl>https://github.com/charlesli-cip/test-class-lib</RepositoryUrl>
+        <PublishRepositoryUrl>true</PublishRepositoryUrl>
+        <EmbedUntrackedSources>true</EmbedUntrackedSources>
+        <DebugSymbols>true</DebugSymbols>
+        <DebugType>embedded</DebugType>
+    </PropertyGroup>
+    <ItemGroup>
+        <PackageReference Include="Microsoft.SourceLink.GitHub" Version="8.0.0" PrivateAssets="All"/>
+    </ItemGroup>
+</Project>
